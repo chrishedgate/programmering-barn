@@ -1,0 +1,3 @@
+require "./svenska"
+
+skriv "Hej!"
